@@ -1,0 +1,10 @@
+titre : PC portable Lenovo IdeaPad 15'6 2022 avec AMD 5000 Series 7nm R5 8 go 512 go SSD USB-C HDMI Windows 11 Pro
+prix : 9999.00
+description : 
+1) 14/15.6 pouces FHD écran Mat, anti-éblouissantes
+
+2) processeur AMD série 5000 7nm
+
+3) batterie de grande capacité
+
+4) type-c, USB2.0, HDMI, lecteur de carte

@@ -1,0 +1,26 @@
+titre : DERE – Pc Portable R9 Pro, 15.6 pouces, Windows 10, processeur Intel Celeron N5095, 12 go de RAM, 512 SSD, résolution 1920x1080 px
+prix : 479.00
+description :
+
+Informations sur le produit
+
+Modèle: R9 pro ordinateur portable
+Matériel: ABS en plastique
+Couleur: Argent/Noir/Rouge
+Processeur: Intel Celeron N5095
+Graphiques: Intel®Ultra HD Graphique
+Caméra: 0.3MP
+Système d'exploitation: Windows 10
+
+Processeur
+
+Modèle: Intel®Celeron N5095
+Nombre de conducteurs: 4 noyaux et 4 fils
+Fréquence: 2.0 GHz à 2.90 GHz
+Processus: 10nm
+
+Carte graphique
+
+Modèle: Intel®UHD Graphique
+Fréquence: 350 MHz-750 MHz
+4k décodage: le soutien à jouer 4K vidéo

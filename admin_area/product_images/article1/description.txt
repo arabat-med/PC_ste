@@ -1,0 +1,16 @@
+prix : 3999.00
+titre : Pc Portable Gaming avec écran IPS de 15.6 pouces, Notebook, Windows 10 11, processeur Intel Celeron N5095, 16 go de RAM, SSD de 256 go
+description : CPU: Intel generation celeron N5095
+
+GPU: carte graphique Intel HD
+
+Mémoire: 16 go + / 256 go/512 go/1 to/2 to
+
+OS: Windows 10 / Windows 11
+
+Caméra: Avant 0.3MP
+
+HDMI/clavier rétroéclairé/Bluetooth 4.0 / Intel 2.4G/5G double canal WIFI , BT 4.0
+
+Options de Configuration
+N5095 16 GO RAM DDR4
